@@ -6,7 +6,7 @@ import webbrowser as web
 from datetime import datetime
 
 # Mengambil dan meyiapkan data dari file excel
-data = pd.read_excel('tes.xlsx')
+data = pd.read_excel('Contoh File Data Nama dan No WA.xlsx')
 data_dict = data.to_dict('list')
 daftar_nomor = data_dict['nomor']
 isi_pesan = data_dict['pesan']
