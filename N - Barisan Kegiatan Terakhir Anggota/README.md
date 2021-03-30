@@ -7,7 +7,7 @@ atau tidak. Karena hal tersebut tidak dapat dilihat jika hanya menggunakan jumla
 3. Pengerjaan secara manual **rentan akan kesalahan**.
 
 Ilustrasi tabel kehadiran kegiatan:
-| Nama        | ID          | Kegiatan Q | Kegiatan Q-1 | Kegiatan Q-1 | ... | Kegiatan 0 |
+| Nama        | ID          | Kegiatan Q | Kegiatan Q-1 | Kegiatan Q-2 | ... | Kegiatan 0 |
 | ----------- | ----------- | ---------- | ------------ | ------------ | --- | ---------- | 
 | Anggota-1   | A-1         | 0          | 1            | 1            | ... | ...        |
 | ...         | ...         | ...        | ...          | ...          | ... | ...        |
